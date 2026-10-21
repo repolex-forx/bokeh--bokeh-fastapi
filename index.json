@@ -1,0 +1,11 @@
+{
+  "org": "bokeh",
+  "repo": "bokeh-fastapi",
+  "versions": [
+    {
+      "commit": "15c8ae0dda6d661c10f730ea7ffdfc99b1ff637d",
+      "tag": "v0.1.8",
+      "parsed_at": "2026-10-21T03:01:31.708051+00:00"
+    }
+  ]
+}
