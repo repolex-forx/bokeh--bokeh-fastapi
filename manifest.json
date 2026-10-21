@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "bokeh",
+  "repo": "bokeh-fastapi",
+  "versions": [
+    {
+      "commit": "15c8ae0dda6d661c10f730ea7ffdfc99b1ff637d",
+      "parsed_at": "2026-10-21T02:59:13.215632+00:00",
+      "tag": "v0.1.8",
+      "filetree": "filetree/15c8ae0dda6d661c10f730ea7ffdfc99b1ff637d.nq.gz",
+      "blobs": [
+        "blob/50d64161f99f0c564a0d7266524d00f84708bb58.nq.gz",
+        "blob/15a5512a066bb8164eb4f607c8d66d58568068c0.nq.gz",
+        "blob/8c9a2aea472e02d9d21cd7cbe70b694dd8e7edf5.nq.gz",
+        "blob/cacf6338d1afc0af4424070efc51640f6f84faa1.nq.gz",
+        "blob/4a21d2d6a8e4ba0ce3fc8a66e179b0a06df0e097.nq.gz",
+        "blob/fc44179b379540be02b27570d7678bf058283d3b.nq.gz",
+        "blob/6bf9b98f89f5cd64cfa621b6bcc8eb88611e8f70.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
