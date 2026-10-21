@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/bokeh/bokeh-fastapi/commit/15c8ae0dda6d661c10f730ea7ffdfc99b1ff637d",
       "git:hexsha": "15c8ae0dda6d661c10f730ea7ffdfc99b1ff637d",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.1.8"
     },
     {
